@@ -3,7 +3,7 @@
 }
 body{
     display:flex;
-    background-image: url('/pattern-background-desktop.svg');
+    background-image: url('pattern-background-desktop.svg');
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: rgb(225 233 253);
